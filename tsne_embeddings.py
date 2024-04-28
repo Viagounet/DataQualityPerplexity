@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import Normalize
 from matplotlib.cm import coolwarm  # This provides a blue-to-red colormap
 
-with open("./lp1_with_embeddings.json", "r", encoding="utf-8") as f:
+with open("./lp1_with_embeddings_miniLM.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 tensor_data = []
@@ -39,7 +39,7 @@ plt.xlabel('t-SNE Dimension 1')
 plt.ylabel('t-SNE Dimension 2')
 
 # Save the plot as a PNG file
-plt.savefig('tsne_visualization.png')
+plt.savefig('tsne_visualization_miniLM.png')
 
 # Close the plot
 plt.close()
