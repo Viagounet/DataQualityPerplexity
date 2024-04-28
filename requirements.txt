@@ -2,3 +2,4 @@ datasets==2.19.0
 peft
 trl
 evaluate
+bitsandbytes
