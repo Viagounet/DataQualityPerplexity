@@ -35,7 +35,7 @@ for instruction, _input, _output in zip(dataset["train"]["instruction"], dataset
     else:
         prompt = template.replace("Input:\n{{{input}}}", "").replace("{{{instruction}}}", instruction).replace("{{{output}}}", _output)
     new_data["prompt"].append(prompt)
-    if i == 1000:
+    if i == 2500:
         break
 ds = Dataset.from_dict(new_data)
 
@@ -43,7 +43,9 @@ ds = Dataset.from_dict(new_data)
 
 def finetune(ds, target_hf_model: str, output_name: str):
     # Split the dataset into a training set and a test set with a 70/30 ratio
-    ds = ds.train_test_split(test_size=0.15)
+    ds = ds.train_test_split(test_size=0.15, seed=42)
+    with open("ds.json", "w", encoding="utf-8") as f:
+        json.dump({"train": ds["train"]["prompt"], "test": ds["test"]["prompt"]}, f, ensure_ascii=False, indent=4)
     print(ds)
 
     nf4_config = BitsAndBytesConfig(
@@ -91,7 +93,7 @@ def finetune(ds, target_hf_model: str, output_name: str):
 
     args = TrainingArguments(
         output_dir=output_name,
-        num_train_epochs=3,
+        num_train_epochs=1,
         # max_steps = 100, # comment out this line if you want to train in epochs
         per_device_train_batch_size=2,
         warmup_steps=0.03,
@@ -124,4 +126,4 @@ def finetune(ds, target_hf_model: str, output_name: str):
     trainer.train()
     trainer.save_model(output_name)
 
-finetune(ds, "microsoft/Phi-3-mini-128k-instruct", "phi-3-alpaca_instruct-tuned-k1000")
+finetune(ds, "microsoft/Phi-3-mini-128k-instruct", "phi-3-alpaca_instruct-tuned-k2000")
