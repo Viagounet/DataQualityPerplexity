@@ -1,0 +1,216 @@
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+Input:
+Groceries (monthly): $400
+Clothing (annually): $1200
+Travel (annually): $2500
+Instruction:
+Formulate a budget for the following items.<|end|>
+<|assistant|>
+Based on the input, here is a summarized budget for the specified items.
+
+#### Expenses:
+- Groceries: $400 per month, or $4,800 per year
+- Clothing: $1,200 per year
+- Travel: $2,500 per year
+
+#### Totals:
+- Monthly total: $400 for groceries
+- Annual total: $8,500 (including $4,800 for groceries, $1,200 for clothing, and $2,500 for travel)
+
+This budget only takes into account the expenses for groceries, clothing, and travel. Other expenses such as housing, utilities, and transportation would need to be added to create a complete budget.<|end|>
+
+----------------
+
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+List the top ten highest peaks in the world.<|end|>
+<|assistant|>
+The top ten highest peaks in the world are:
+
+1. Mount Everest (Nepal) - 8,848 meters (29,029 feet)
+2. K2 (Pakistan) - 8,611 meters (28,251 feet)
+3. Kangchenjunga (Nepal/India) - 8,586 meters (28,169 feet)
+4. Lhotse (Nepal/Tibet) - 8,516 meters (27,940 feet)
+5. Makalu (Nepal/Tibet) - 8,485 meters (27,838 feet)
+6. Cho Oyu (Nepal/Tibet) - 8,188 meters (26,864 feet)
+7. Dhaulagiri I (Nepal) - 8,167 meters (26,795 feet)
+8. Manaslu (Nepal) - 8,163 meters (26,781 feet)
+9. Nanga Parbat (Pakistan) - 8,126 meters (26,660 feet)
+10. Annapurna I (Nepal) - 8,091 meters (26,545 feet)<|end|>
+
+----------------
+
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Write a function to convert Fahrenheit to Celsius<|end|>
+<|assistant|>
+Here is a function written in Python that can convert degrees Fahrenheit to degrees Celsius:
+
+```python
+def fahrenheit_to_celsius(fahrenheit):
+    """
+    Converts degrees fahrenheit to degrees celsius.
+    """
+    celsius = (fahrenheit - 32) * 5/9
+    return celsius
+```
+
+To use this function, pass in a value representing degrees Fahrenheit as an argument. The function will then return the equivalent temperature in degrees Celsius. For example:
+
+```python
+temp_in_fahrenheit = 98.6
+temp_in_celsius = fahrenheit_to_celsius(temp_in_fahrenheit)
+print(f'{temp_in_fahrenheit} Fahrenheit is equal to {temp_in_celsius:.2f} Celsius.')
+```<|end|>
+
+----------------
+
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Output a list of a different kind of fruits<|end|>
+<|assistant|>
+Here is a list of different types of fruits: 
+
+1. Apples 
+2. Oranges 
+3. Bananas 
+4. Pineapples 
+5. Mangoes 
+6. Peaches 
+7. Pears 
+8. Lemons 
+9. Grapefruits 
+10. Kiwis
+11. Strawberries 
+12. Blueberries 
+13. Cherries 
+14. Plums 
+15. Grapes 
+16. Melons 
+17. Watermelons 
+18. Papayas 
+19. Limes 
+20. Raspberries<|end|>
+
+----------------
+
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Generate a list of country names in the western hemisphere.<|end|>
+<|assistant|>
+Here is a list of countries located in the Western Hemisphere:
+
+1. Antigua and Barbuda
+2. Argentina
+3. The Bahamas
+4. Barbados
+5. Belize
+6. Bolivia
+7. Brazil
+8. Canada
+9. Chile
+10. Colombia
+11. Costa Rica
+12. Cuba
+13. Dominica
+14. Dominican Republic
+15. Ecuador
+16. El Salvador
+17. Grenada
+18. Guatemala
+19. Guyana
+20. Haiti
+21. Honduras
+22. Jamaica
+23. Mexico
+24. Nicaragua
+25. Panama
+26. Paraguay
+27. Peru
+28. Saint Kitts and Nevis
+29. Saint Lucia
+30. Saint Vincent and the Grenadines
+31. Suriname
+32. Trinidad and Tobago
+33. United States of America
+34. Uruguay
+35. Venezuela.<|end|>
+
+----------------
+
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+List the countries that are in the Schengen area.<|end|>
+<|assistant|>
+The Schengen Area is a zone of 26 European countries that have abolished passport and other types of border control at their mutual borders. The following is a list of the countries that are members of the Schengen Area:
+
+1. Austria
+2. Belgium
+3. Czech Republic
+4. Denmark
+5. Estonia
+6. Finland
+7. France
+8. Germany
+9. Greece
+10. Hungary
+11. Iceland
+12. Italy
+13. Latvia
+14. Liechtenstein
+15. Lithuania 
+16. Luxembourg
+17. Malta
+18. Netherlands
+19. Norway
+20. Poland
+21. Portugal
+22. Slovakia
+23. Slovenia
+24. Spain
+25. Sweden
+26. Switzerland.<|end|>
+
+----------------
+
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Compute the derivative of 2x^2 + 5x.<|end|>
+<|assistant|>
+The formula for the derivative of a function is: f'(x) = d/dx(f(x))
+Using this formula, let's differentiate the function f(x) = 2x^2 + 5x with respect to x.
+
+d/dx(2x^2 + 5x) = d(2x^2)/dx + d(5x)/dx. 
+
+Recall that the derivative of x^n is nx^(n-1). Applying this to the first term: 
+d(2x^2)/dx = 2 * d(x^2)/dx = 2 * 2x = 4x.
+
+And the derivative of k*x, where k is a constant, is k. Applying this to the second term:
+d(5x)/dx = 5.
+
+Therefore, the derivative of 2x^2 + 5x is:
+
+f'(x) = 4x + 5.<|end|>
+
+----------------
+

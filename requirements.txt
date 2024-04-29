@@ -5,3 +5,4 @@ evaluate
 bitsandbytes
 scikit-learn
 matplotlib
+sentence-transformers
