@@ -1,0 +1,66 @@
+{
+    "base_model": "microsoft/Phi-3-mini-128k-instruct",
+    "finetuned_model": "phi-3-alpaca_instruct-tuned-k2000",
+    "sentences": [
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\nInput:\nCNN's consultant on political television advertising believes that the cost to influence the 2008 election may exceed $3 billion.\nInstruction:\nGenerate a list of the important people involved in this article.<|end|>\n<|assistant|>\n1. CNN's consultant on political television advertising<|end|>",
+            "p0": 171.60086059570312,
+            "p1": 4.9127607345581055,
+            "lp1": 0.9713710017682678
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\n\nInstruction:\nWrite a poem about the beauty of the night sky.<|end|>\n<|assistant|>\nUp above in the darkened sky,\nThe stars twinkle and dance on by.\nA canvas painted in shades of black,\nWith speckles of light, no color it lacks.\n\nThe moon rests high, a beacon of light,\nA calming presence through the dead of night.\nIt's glow illuminates, in silver hue,\nA mesmerizing sight, forever anew.\n\nSilent whispers of a cool night breeze,\nAccompany the rustling of the tall trees.\nA symphony of nature, a tune so sweet,\nA tranquil serenade, impossible to beat.\n\nAs shooting stars blaze across the sky,\nA fleeting moment, in the blink of an eye.\nWishes are made, with hope in heart,\nAs the night sky performs its everlasting art.\n\nThe beauty of the night, a sight to behold,\nA story of the cosmos, forever untold.\nA peaceful escape, of time and space,\nThe night sky, a boundless and beautiful place.<|end|>",
+            "p0": 9.387094497680664,
+            "p1": 3.3413519859313965,
+            "lp1": 0.6440483275461893
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\n\nInstruction:\nName an example of a situation where an AI system made a biased decision<|end|>\n<|assistant|>\nOne example of a situation where an AI system made a biased decision was in the case of companies using AI technology to screen resumes for job applicants. Some AI systems were found to be excluding resumes from qualified women and people of color because they were \"trained\" on resumes submitted by white men, who have historically held a disproportionate number of high-ranking positions. As a result, the AI system perpetuated existing inequalities and biases. This issue led to widespread criticism on the use of such systems and many companies taking steps to reduce algorithmic bias.<|end|>",
+            "p0": 14.761343002319336,
+            "p1": 3.3512632846832275,
+            "lp1": 0.7729702992365485
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\nInput:\nA farmer grows a mysterious flower overnight. The farmer is amazed and decides to sell the plant in the market. People from far and wide visit the farmer's market to get a glimpse of the miraculous flower.\nInstruction:\nRead the following story and decide if it is fiction or non-fiction.<|end|>\n<|assistant|>\nIt is fiction.<|end|>",
+            "p0": 70.10985565185547,
+            "p1": 3.6315550804138184,
+            "lp1": 0.9482019318589524
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\nInput:\nWinter is usually the coldest season of the year. Snow is a common element during winter.\nInstruction:\nMake the second sentence shorter.<|end|>\n<|assistant|>\nWinter typically brings cold and snow.<|end|>",
+            "p0": 204.16358947753906,
+            "p1": 3.5725178718566895,
+            "lp1": 0.9825016895470986
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\nInput:\nJohn is making dinner.\nInstruction:\nRewrite the given passage in the past tense.<|end|>\n<|assistant|>\nJohn made dinner.<|end|>",
+            "p0": 1035.83203125,
+            "p1": 2.7866415977478027,
+            "lp1": 0.9973097553332223
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\nInput:\nJe suis fatigué\nInstruction:\nTranslate the given phrase from French to English.<|end|>\n<|assistant|>\nI am tired.<|end|>",
+            "p0": 612.9591064453125,
+            "p1": 2.3680315017700195,
+            "lp1": 0.996136721884266
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\nInput:\nJava, C++, Python\nInstruction:\nClassify the three programming languages<|end|>\n<|assistant|>\n1. Java - Java is an object-oriented, high-level programming language developed by Sun Microsystems in 1995. It is known for its platform-independent “write once, run anywhere” capabilities which make it suitable for building portable applications. Java is commonly used in web, mobile and enterprise applications.\n\n2. C++ - C++ is a general-purpose programming language that was developed by Bjarne Stroustrup in 1983. It is an extension of the C programming language that provides additional capabilities such as support for object-oriented programming and advanced data structures. C++ is used in many areas, including  system programming, game development, and graphic design.\n\n3. Python - Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum in 1989, Python emphasizes code readability and its syntax allows programmers to express concepts in fewer lines of code than languages like C++ or Java. Python is commonly used in data science, artificial intelligence, web development, and other scientific computing applications.<|end|>",
+            "p0": 6.290501117706299,
+            "p1": 2.1805574893951416,
+            "lp1": 0.6533571096176457
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\n\nInstruction:\nArrange the following words to make a meaningful sentence: selling do investors to advice trust.<|end|>\n<|assistant|>\nDo investors trust advice to selling?<|end|>",
+            "p0": 315.0501403808594,
+            "p1": 5.543098449707031,
+            "lp1": 0.9824056626573596
+        },
+        {
+            "content": "<|system|>\nYou are a helpful AI assistant.<|end|>\n<|user|>\nInput:\n\"Hi there! I'm looking for a place on the internet that I can find books from authors I've never heard of before. Can you help me?\"\nInstruction:\nEdit the following text to follow the rules of formal English.<|end|>\n<|assistant|>\n\"Greetings, I am in search for a website where I can discover books written by unfamiliar authors. Could you possibly assist me in this matter?\"<|end|>",
+            "p0": 39.680686950683594,
+            "p1": 3.148833751678467,
+            "lp1": 0.9206456844965427
+        }
+    ]
+}
