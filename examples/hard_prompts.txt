@@ -1,0 +1,423 @@
+LP(1) = 0.3133656059273858 | Nb words = 117 | residual = -0.4293272783567966
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Generate a set of 100 words for a baby shower word search<|end|>
+<|assistant|>
+1. Baby
+2. Shower
+3. Diaper
+4. Bottle
+5. Blanket
+6. Stroller
+7. Crib
+8. Pacifier
+9. Bib
+10. Onesie
+11. Rattle
+12. Cradle
+13. Swaddle
+14. Formula
+15. Highchair
+16. Carriage
+17. Nursery
+18. Bassinet
+19. Newborn
+20. Infant
+21. Toddler
+22. Booties
+23. Teddy
+24. Toy
+25. Rocking
+26. Chair
+27. Monitor
+28. Wipes 
+29. Teething
+30. Carrier
+31. Clothing
+32. Footie
+33. Snuggle
+34. Naptime
+35. Mobile
+36. Playpen
+37. Sleeper
+38. Bouncer
+39. Romper
+40. Cap
+41. Socks
+42. Mittens
+43. Hoodie
+44. Burp
+45. Cloth
+46. Spoon
+47. Bowl
+48. Bathtub
+49. Shampoo
+50. Soap
+51. Lotion
+52. Powder
+53. Oil
+54. Thermometer
+55. Nail
+56. Clippers
+57. Comb
+58. Brush
+59. Safety
+60. Gate
+61. Outlet
+62. Covers
+63. Changing
+64. Table
+65. Dresser
+66. Glider
+67. Hamper
+68. Wall
+69. Decals
+70. Mat
+71. Lambs
+72. Lullaby
+73. Fan
+74. White
+75. Noise
+76. Machine
+77. Diaper
+78. Genie
+79. Cot
+80. Nightlight
+81. Sleep
+82. Sack
+83. Hat
+84. Washcloth
+85. Towel
+86. Receiving
+87. Breast
+88. Pump
+89. Nursing
+90. Cover
+91. Book
+92. Songs
+93. Story
+94. Time
+95. Ultrasound
+96. Expecting
+97. Miracle
+98. Gift
+99. Blessing
+100. Joy.<|end|>
+
+---------
+
+
+LP(1) = 0.33658595912819367 | Nb words = 141 | residual = -0.35497882728625874
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Create an example of a web page.<|end|>
+<|assistant|>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Awesome Web Page</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<style type="text/css">
+		body { font-family: 'Open Sans', sans-serif; }
+		.container { width: 80%; margin: 0 auto; padding: 20px 0; }
+		header { display: flex; align-items: center; justify-content: space-between; }
+		header img { height: 80px; }
+		header h1 { margin: 0; }
+		nav ul { list-style: none; margin: 0; padding: 0; display: flex; }
+		nav li { margin: 0 10px; }
+		nav a { text-decoration: none; color: #000; }
+		.hero { height: 400px; background-image: url(https://source.unsplash.com/1600x900/?nature); background-size: cover; background-position: center; margin: 20px 0; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 36px; }
+		section { margin: 20px 0; }
+		footer { background: #eee; padding: 20px; text-align: center; }
+	</style>
+</head>
+<body>
+	<div class="container">
+		<header>
+			<img src="https://www.logodesign.net/logo/abstract-cuboid-building-4519ld.png" alt="logo">
+			<h1>My Awesome Web Page</h1>
+			<nav>
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Services</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<div class="hero">
+			<p>Welcome to my web page</p>
+		</div>
+		<section>
+			<h2>About Me</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maxim<|end|>
+
+---------
+
+
+LP(1) = 0.38763056232709175 | Nb words = 154 | residual = -0.2780770961872681
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Generate a comprehensive list of products available in the store<|end|>
+<|assistant|>
+As an AI, I don't have access to the specific store inventory, so I wouldn't be able to provide you with an exact list of products available. However, I can provide a general list of common products found in various stores such as:
+
+1. Groceries:
+	-Fruits and vegetables
+	-Dairy products
+	-Bread and Bakery products
+	-Meat and seafood
+	-Snacks and candy
+	-Beverages
+	-Canned and jarred food
+	-Dry and packaged goods
+	-Frozen Food
+	-International cuisine
+2. Personal Care:
+	-Haircare products
+	-Skincare products
+	-Oral care products
+	-Feminine hygiene products
+	-Shaving products
+	-Makeup
+3. Household supplies:
+	-Cleaning supplies
+	-Laundry detergents
+	-Paper goods
+	-Kitchen tools
+	-Storage and organization
+4. Pet supplies:
+	-Pet food
+	-Toys
+	-Grooming products
+	-Meds and supplements
+5. Clothing:
+	-Men's wear
+	-Women's wear
+	-Children's wear
+	-Shoes
+6. Electronics:
+	-Computers and laptops
+	-Mobile phones and tablets
+	-Cameras
+	-Home appliances
+	-Audio and video products
+7. Outdoor:
+	-Camping gear
+	-Sporting goods
+	-Grills and accessories
+8. Home décor:
+	-Furniture
+	-Lighting
+	-Rugs and carpets
+	-Home accents
+	- Wall decor
+	-Curtains and drapes
+9. Baby essentials:
+	-Diapers
+	-Strollers
+	-Car seats
+	-Baby food
+	-Feeding and nursing accessories.
+
+Please note that this is just a general list and it might differ according to the type of store and its inventory.<|end|>
+
+---------
+
+
+LP(1) = 0.4695321738482233 | Nb words = 150 | residual = -0.20399646514133185
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Explain what rare earth elements are and list some examples.<|end|>
+<|assistant|>
+Rare earth elements, also known as rare earth metals, are a set of 17 chemical elements in the periodic table, specifically the 15 lanthanides along with scandium and yttrium. Despite their name, rare earth elements are relatively abundant, but they occur in low concentrations, and their extraction and processing can be difficult, costly and environmentally challenging.
+
+Rare earth elements have unique chemical and physical properties that make them essential in a variety of high-tech and green technologies like electric vehicles, wind turbines, smartphones, and military equipment. 
+
+Here is a list of some of the 17 rare earth elements:
+
+1. Scandium (Sc)
+2. Yttrium (Y) 
+3. Lanthanum (La) 
+4. Cerium (Ce) 
+5. Praseodymium (Pr) 
+6. Neodymium (Nd)
+7. Promethium (Pm)
+8. Europium (Eu) 
+9. Gadolinium (Gd)
+10. Terbium (Tb)
+11. Dysprosium (Dy) 
+12. Holmium (Ho)
+13. Erbium (Er)
+14. Thulium (Tm)
+15. Ytterbium (Yb)
+16. Lutetium (Lu)
+17. Samarium (Sm)<|end|>
+
+---------
+
+
+LP(1) = 0.540239859283131 | Nb words = 96 | residual = -0.25091268257576904
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+List the top ten highest peaks in the world.<|end|>
+<|assistant|>
+The top ten highest peaks in the world are:
+
+1. Mount Everest (Nepal) - 8,848 meters (29,029 feet)
+2. K2 (Pakistan) - 8,611 meters (28,251 feet)
+3. Kangchenjunga (Nepal/India) - 8,586 meters (28,169 feet)
+4. Lhotse (Nepal/Tibet) - 8,516 meters (27,940 feet)
+5. Makalu (Nepal/Tibet) - 8,485 meters (27,838 feet)
+6. Cho Oyu (Nepal/Tibet) - 8,188 meters (26,864 feet)
+7. Dhaulagiri I (Nepal) - 8,167 meters (26,795 feet)
+8. Manaslu (Nepal) - 8,163 meters (26,781 feet)
+9. Nanga Parbat (Pakistan) - 8,126 meters (26,660 feet)
+10. Annapurna I (Nepal) - 8,091 meters (26,545 feet)<|end|>
+
+---------
+
+
+LP(1) = 0.556668826653277 | Nb words = 101 | residual = -0.22262396641847404
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Create a pop quiz about clouds.<|end|>
+<|assistant|>
+Pop Quiz: Clouds
+
+1. Which of the following is not a type of cloud?
+a. Cumulus
+b. Stratus
+c. Nimbus
+d. Volcanus
+
+2. What is the name for a cloud that produces precipitation?
+a. Cumulonimbus
+b. Altocumulus
+c. Cirrostratus
+d. Stratocumulus
+
+3. At what altitude are Cirrus clouds typically found?
+a. 6,000 meters
+b. 4,000 meters
+c. 2,000 meters
+d. 8,000 meters
+
+4. What type of cloud is often described as a “sheet” or “layer”?
+a. Cumulus
+b. Cirrus
+c. Stratus
+d. Altocumulus
+
+5. Which type of cloud is characterized by its flat base and rounded towers?
+a. Stratus
+b. Cumulus
+c. Cirrus
+d. Altostratus
+
+Answer Key:
+1. d. Volcanus
+2. a. Cumulonimbus
+3. a. 6,000 meters
+4. c. Stratus
+5. b. Cumulus<|end|>
+
+---------
+
+
+LP(1) = 0.5753773908259917 | Nb words = 78 | residual = -0.26016851024343635
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Generate a list of country names in the western hemisphere.<|end|>
+<|assistant|>
+Here is a list of countries located in the Western Hemisphere:
+
+1. Antigua and Barbuda
+2. Argentina
+3. The Bahamas
+4. Barbados
+5. Belize
+6. Bolivia
+7. Brazil
+8. Canada
+9. Chile
+10. Colombia
+11. Costa Rica
+12. Cuba
+13. Dominica
+14. Dominican Republic
+15. Ecuador
+16. El Salvador
+17. Grenada
+18. Guatemala
+19. Guyana
+20. Haiti
+21. Honduras
+22. Jamaica
+23. Mexico
+24. Nicaragua
+25. Panama
+26. Paraguay
+27. Peru
+28. Saint Kitts and Nevis
+29. Saint Lucia
+30. Saint Vincent and the Grenadines
+31. Suriname
+32. Trinidad and Tobago
+33. United States of America
+34. Uruguay
+35. Venezuela.<|end|>
+
+---------
+
+
+LP(1) = 0.7036165417567134 | Nb words = 46 | residual = -0.21759563391974157
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Make a list of different types of cryptocurrencies.<|end|>
+<|assistant|>
+1. Bitcoin (BTC)
+2. Ethereum (ETH) 
+3. Ripple (XRP)
+4. Bitcoin Cash (BCH)
+5. Litecoin (LTC)
+6. Cardano (ADA) 
+7. Binance Coin (BNB)
+8. Stellar (XLM)
+9. Chainlink (LINK)
+10. Polkadot (DOT)
+11. Monero (XMR)
+12. EOS (EOS)
+13. Tether (USDT)
+14. Dogecoin (DOGE)
+15. Dash (DASH)<|end|>
+
+---------
+
+

@@ -1,0 +1,83 @@
+LP(1) = 0.7068820017495555 | Nb words = 344 | residual = 0.28981076745964374
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+Input:
+Number of ice cream flavors in a store: 6, 8, 10, 7
+Instruction:
+Represent the following data in a bar chart<|end|>
+<|assistant|>
+Here is the bar chart representing the data of the number of ice cream flavors in a store.
+
+|                             |
+|                             |
+|  10                       ###|
+|                             |
+|  8   #                    ###|
+|     ###      #           ### |          
+|     ###    # #           ### |
+|  6  ###    ###  #        ### |
+|     ###    ### ###       ### |
+|                             |
+|____1___2____3___4___________|
+    
+    1, 2, 3, and 4 represent the store numbers
+    The number on the left represent the number of ice cream flavors 
+    The # represents the number of ice creams in the store<|end|>
+
+---------
+
+
+LP(1) = 0.8028972578175829 | Nb words = 203 | residual = 0.2235855387005966
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+Input:
+Duration of sleep in hours:
+Person A: 6
+Person B: 7
+Person C: 8
+Instruction:
+Create a chart displaying the following data.<|end|>
+<|assistant|>
+Here's an ASCII Bar Chart to represent the given data:
+
+```
+Duration of Sleep (Hours)
+10|                  
+ 9|                   
+ 8|            C      
+ 7|       B    C      
+ 6|  A    B    C      
+ 5|  A    B           
+ 4|  A                
+ 3|                   
+ 2|
+ 1|
+   -------------------
+     A    B    C   
+```<|end|>
+
+---------
+
+
+LP(1) = 0.8125641931193648 | Nb words = 194 | residual = 0.21865575504814894
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+Input:
+The survey asked people to rate a new website on a scale of 1-5, with 1 being poor and 5 being excellent.
+Instruction:
+Create a table that illustrates the results of a survey.<|end|>
+<|assistant|>
+| Rating | Number of Responses |
+| ------ | ------------------ |
+| 1 (Poor)       | 10                 |
+| 2              | 8                  |
+| 3              | 15                 |
+| 4              | 25                 |
+| 5 (Excellent)  | 42                 |<|end|>
+
+---------
+
+

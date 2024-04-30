@@ -1,0 +1,100 @@
+LP(1) = 0.540239859283131 | Nb words = 96 | residual = -0.25091268257576904
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+List the top ten highest peaks in the world.<|end|>
+<|assistant|>
+The top ten highest peaks in the world are:
+
+1. Mount Everest (Nepal) - 8,848 meters (29,029 feet)
+2. K2 (Pakistan) - 8,611 meters (28,251 feet)
+3. Kangchenjunga (Nepal/India) - 8,586 meters (28,169 feet)
+4. Lhotse (Nepal/Tibet) - 8,516 meters (27,940 feet)
+5. Makalu (Nepal/Tibet) - 8,485 meters (27,838 feet)
+6. Cho Oyu (Nepal/Tibet) - 8,188 meters (26,864 feet)
+7. Dhaulagiri I (Nepal) - 8,167 meters (26,795 feet)
+8. Manaslu (Nepal) - 8,163 meters (26,781 feet)
+9. Nanga Parbat (Pakistan) - 8,126 meters (26,660 feet)
+10. Annapurna I (Nepal) - 8,091 meters (26,545 feet)<|end|>
+
+---------
+
+
+LP(1) = 0.5753773908259917 | Nb words = 78 | residual = -0.26016851024343635
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Generate a list of country names in the western hemisphere.<|end|>
+<|assistant|>
+Here is a list of countries located in the Western Hemisphere:
+
+1. Antigua and Barbuda
+2. Argentina
+3. The Bahamas
+4. Barbados
+5. Belize
+6. Bolivia
+7. Brazil
+8. Canada
+9. Chile
+10. Colombia
+11. Costa Rica
+12. Cuba
+13. Dominica
+14. Dominican Republic
+15. Ecuador
+16. El Salvador
+17. Grenada
+18. Guatemala
+19. Guyana
+20. Haiti
+21. Honduras
+22. Jamaica
+23. Mexico
+24. Nicaragua
+25. Panama
+26. Paraguay
+27. Peru
+28. Saint Kitts and Nevis
+29. Saint Lucia
+30. Saint Vincent and the Grenadines
+31. Suriname
+32. Trinidad and Tobago
+33. United States of America
+34. Uruguay
+35. Venezuela.<|end|>
+
+---------
+
+
+LP(1) = 0.7036165417567134 | Nb words = 46 | residual = -0.21759563391974157
+<|system|>
+You are a helpful AI assistant.<|end|>
+<|user|>
+
+Instruction:
+Make a list of different types of cryptocurrencies.<|end|>
+<|assistant|>
+1. Bitcoin (BTC)
+2. Ethereum (ETH) 
+3. Ripple (XRP)
+4. Bitcoin Cash (BCH)
+5. Litecoin (LTC)
+6. Cardano (ADA) 
+7. Binance Coin (BNB)
+8. Stellar (XLM)
+9. Chainlink (LINK)
+10. Polkadot (DOT)
+11. Monero (XMR)
+12. EOS (EOS)
+13. Tether (USDT)
+14. Dogecoin (DOGE)
+15. Dash (DASH)<|end|>
+
+---------
+
+
